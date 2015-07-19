@@ -7,3 +7,5 @@ function sum (n){
 
 	return summation;
 }
+
+console.log( sum ( numbers ) );
