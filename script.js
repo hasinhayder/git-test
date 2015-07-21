@@ -10,3 +10,5 @@ function sum (n){
 }
 
 console.log( sum ( numbers ) );
+
+//Added By User 2
